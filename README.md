@@ -16,6 +16,8 @@ The documentation (Metoda_Laguerre.pdf) and code comments are written in Polish,
 ---
 
 ## 📁 Project Structure
+
+```
 laguerre-method-matlab/
 ├── laguerre.m             # Main function implementing Laguerre's method  
 ├── x2.m                   # Test script for a quadratic polynomial  
@@ -27,6 +29,7 @@ laguerre-method-matlab/
 ├── Metoda_Laguerre.pdf    # Project report (Polish language)  
 ├── LICENSE                # License information  
 └── README.md              # Project description
+```
 
 ---
 
