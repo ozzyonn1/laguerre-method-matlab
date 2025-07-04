@@ -6,7 +6,7 @@ This project was created for the Numerical Methods course.
 
 ---
 
-## 📝 Project Description
+## Project Description
 The goal of this project is to implement Laguerre's method for finding approximate roots of a given polynomial using MATLAB.  
 The project includes a core function for performing iterations as well as test scripts for different types of polynomials.
 
@@ -15,7 +15,7 @@ The documentation (Metoda_Laguerre.pdf) and code comments are written in Polish,
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 laguerre-method-matlab/
@@ -33,13 +33,13 @@ laguerre-method-matlab/
 
 ---
 
-## 📊 Example Usage
+## Example Usage
 The method is tested on polynomials of degree 2, 3, 4, and 8.  
 Results obtained using Laguerre’s method are compared with MATLAB’s built-in `roots` function.  
 Plots are generated to visualize polynomial curves and their roots on the complex plane.
 
 ---
 
-## 📄 License
+## License
 This project is licensed under the MIT License.  
 See the [LICENSE](LICENSE) file for more details.
